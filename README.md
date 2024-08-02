@@ -1,0 +1,1 @@
+Building the Recommender Model using SVD: Armed with cleaned data, I dove into crafting a recommender model. Singular Value Decomposition (SVD), was used to unlock hidden patterns within the data matrix. 🌐 As a result, a personalized recommendation engine that suggests books based on user preferences, is ready.
